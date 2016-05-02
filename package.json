@@ -1,0 +1,25 @@
+{
+  "name": "NodeExpress",
+  "version": "1.0.0",
+  "description": "Node.js and Express 4 tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "npm": "^3.8.8",
+    "wiredep": "^4.0.0"
+  }
+}
