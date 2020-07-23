@@ -19,7 +19,7 @@
     "gulp-jshint": "^2.0.0",
     "jshint": "^2.9.2",
     "jshint-stylish": "^2.2.0",
-    "npm": "^3.8.8",
+    "npm": "^6.14.7",
     "wiredep": "^4.0.0"
   }
 }
